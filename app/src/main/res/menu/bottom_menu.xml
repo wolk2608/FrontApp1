@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/imageFragment"
+        android:title="Image"
+        android:icon="@drawable/ic_image"/>
+    <item
+        android:id="@+id/customViewFragment"
+        android:title="Custom View"
+        android:icon="@drawable/ic_text"/>
+    <item
+        android:id="@+id/recyclerViewFragment"
+        android:icon="@drawable/ic_list"
+        android:title="Recycler View" />
+</menu>
